@@ -38,7 +38,7 @@ def new_piece(iboard, ipieces):
     ipiece_position = [0, 4]
     return iboard, ipiece, ipiece_position
 
-
+6562 6879 0060
 def next_move(iboard, ipiece, ipiece_position):
     value = input("Input your next move (wasd): ")
     # value = "a"
