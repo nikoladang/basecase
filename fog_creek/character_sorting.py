@@ -10,3 +10,5 @@ if __name__ == "__main__":
         result = sorted_string.split("_")[0]
         print(result)
 
+
+
