@@ -9,6 +9,4 @@ if __name__ == "__main__":
         for letter, count in Counter(text).most_common():
             sorted_string += letter
         result = sorted_string.split("_")[0]
-        print(result)
-# comment
-
+        print(result) # unprovable
